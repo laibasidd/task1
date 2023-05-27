@@ -1,0 +1,29 @@
+body{
+  background-image: url(QgWjDO.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  height: 130vh;
+  width: 100%;
+}
+h2{
+    color: rgb(156, 24, 24);
+}h4{
+    color: rgb(172, 24, 24);
+}
+.container-fluid{
+   
+    border-radius: 2px;
+    border: 2px solid black;
+}     
+    
+ .nav-1{
+    padding: 8px;
+}.nav-2{
+    padding: 8px;
+} .nav-item{
+cursor: pointer;
+
+} .container{
+    padding-top: 50px;
+    margin-top: 190px;
+}
